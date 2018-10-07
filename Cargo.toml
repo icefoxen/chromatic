@@ -1,6 +1,14 @@
 [package]
 name = "chromatic"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Simon Heath <icefoxen@gmail.com>"]
+description = "The simplest possible compile-time color definitions."
+documentation = "https://docs.rs/chromatic/"
+repository = "https://github.com/icefoxen/chromatic"
+readme = "README.md"
+keywords = ["colors", "css"]
+categories = ["games", "gui", "multimedia", "no-std"]
+license = "MIT"
+maintenance = { status = "passively-maintained" }
 
 [dependencies]
