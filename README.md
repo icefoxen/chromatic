@@ -1,4 +1,4 @@
-# chromatic
+# chromatica
 
 Simple compile-time colors for Rust.  Implements the CSS color space as named constants.
 Doesn't have any run-time information about them.  I wanted the most bone-simple setup,

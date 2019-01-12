@@ -1,9 +1,9 @@
 [package]
 name = "chromatica"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Simon Heath <icefoxen@gmail.com>"]
 description = "The simplest possible compile-time color definitions."
-documentation = "https://docs.rs/chromatic/"
+documentation = "https://docs.rs/chromatica/"
 repository = "https://github.com/icefoxen/chromatic"
 readme = "README.md"
 keywords = ["colors", "css"]
